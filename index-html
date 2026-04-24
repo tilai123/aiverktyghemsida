@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Projekt – Dropmagic</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(120deg, #fff1f5, #fde2e4, #f8edeb);
+    color: #333;
+}
+
+header {
+    background: linear-gradient(120deg, #ffb3c6, #ffc2d1);
+    padding: 60px 20px;
+    text-align: center;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+header h1 {
+    margin: 0;
+    color: white;
+    font-size: 2.5rem;
+}
+
+header p {
+    color: white;
+    opacity: 0.9;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.section {
+    background: white;
+    padding: 25px;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+h2 {
+    color: #e5989b;
+}
+
+a {
+    color: #d6336c;
+    text-decoration: none;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #ffc2d1;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>AI Projekt – Dropmagic</h1>
+    <p>Skapad av Tilde Gavik</p>
+</header>
+
+<div class="container">
+
+<div class="section">
+<h2>Verktyget</h2>
+<p><strong>Namn:</strong> Dropmagic</p>
+<p><strong>Länk:</strong> <a href="https://www.dropmagic.ai" target="_blank">https://www.dropmagic.ai</a></p>
+</div>
+
+<div class="section">
+<h2>Allmän beskrivning</h2>
+<p>
+Dropmagic är ett AI-baserat verktyg som automatiskt skapar e-handelsbutiker utifrån en produktlänk. 
+Genom att använda artificiell intelligens genererar verktyget design, produktbeskrivningar, bilder och layout utan att användaren behöver tekniska kunskaper.
+</p>
+
+<p>
+Syftet är att effektivisera processen att skapa webbutiker och sänka tröskeln för att starta e-handel. 
+Istället för att manuellt bygga en hemsida kan användaren snabbt få en färdig struktur som går att justera.
+</p>
+
+<h3>Fördelar och användningsområden</h3>
+<ul>
+<li>Sparar tid genom automatisering</li>
+<li>Kräver ingen programmering</li>
+<li>Möjliggör snabb prototyp av affärsidéer</li>
+<li>Passar entreprenörer, studenter och småföretagare</li>
+<li>Stöd för flera språk och mobilanpassning</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Användning – Use Case</h2>
+<p>
+Jag började med att välja funktionen <strong>"Import from supplier link"</strong> och klistrade in en produktlänk från Amazon (Apple hörlurar).
+</p>
+
+<p>
+Därefter valde jag målgruppen <strong>"Remote worker"</strong>, vilket styr hur produkten presenteras och marknadsförs.
+</p>
+
+<p>
+Efter detta skapade verktyget automatiskt en färdig webbutik med design, bilder och texter.
+</p>
+
+<p>
+Jag testade även att justera innehåll, layout och design manuellt för att förbättra resultatet och få en bättre förståelse för verktygets funktioner.
+</p>
+
+<p>
+Processen från start till färdig sida var mycket snabb och krävde minimal teknisk kunskap.
+</p>
+</div>
+
+<div class="section">
+<h2>Slutlig analys</h2>
+
+<p>
+Dropmagic visar tydligt hur AI kan automatisera komplexa kreativa processer. Verktyget levererar ett snabbt och funktionellt resultat, vilket gör det särskilt användbart i tidiga faser av ett projekt eller vid test av affärsidéer.
+</p>
+
+<p>
+En av de största styrkorna är effektiviteten. Att kunna generera en färdig e-handelssida på kort tid innebär en stor fördel jämfört med traditionell webbutveckling. Detta sänker tröskeln för entreprenörskap och gör tekniken mer tillgänglig för fler.
+</p>
+
+<p>
+Samtidigt finns tydliga begränsningar. Eftersom design och innehåll genereras automatiskt blir resultatet ofta generiskt. Detta kan påverka varumärkesidentitet och göra det svårare att sticka ut på en konkurrensutsatt marknad.
+</p>
+
+<p>
+En annan viktig aspekt är kontroll. Användaren får mindre direkt inflytande över detaljer jämfört med att skapa en sida från grunden. Detta kan vara en nackdel för mer avancerade användare eller företag med specifika krav.
+</p>
+
+<p>
+Ur ett AI-perspektiv visar verktyget både potential och begränsningar. Det är effektivt för standardiserade uppgifter men mindre flexibelt när det gäller kreativ och unik design.
+</p>
+
+<p>
+Min slutsats är att Dropmagic är ett mycket användbart verktyg för nybörjare och för att snabbt testa idéer. Däremot bör det ses som ett komplement snarare än en fullständig lösning om målet är att skapa en unik och professionell e-handelsplattform.
+</p>
+
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 – Skapad av Tilde Gavik</p>
+</footer>
+
+</body>
+</html>
